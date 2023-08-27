@@ -1,4 +1,14 @@
-list1 = [1, 2, 3, 4, 5, 6, 7, 8, 9]
+import random
+
+list1 = []
+
+for i in range(0, 41):
+
+    num = random.randint(0, 100)
+
+    list1.append(num)
+
+list1.sort()
 
 
 def binarySearch(list1, target):

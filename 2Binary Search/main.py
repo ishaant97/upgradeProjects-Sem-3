@@ -24,10 +24,10 @@ def binarySearch(list1, target):
             return middle  # Target found at index 'middle'
         elif (list1[middle] > target):
             r = middle - 1  # Adjust the right boundary
-        elif (list1[middle] < target):
-            l = middle + 1  # Adjust the left boundary
         else:
-            return -1  # Target not found
+            l = middle + 1  # Adjust the left boundary
+
+    return -1  # Target not found
 
 
 # Define the target value to search for

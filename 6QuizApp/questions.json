@@ -1,0 +1,98 @@
+[
+    {
+      "question": "What is Python?",
+      "options": ["A snake species", "A programming language", "A popular game", "A type of coffee"],
+      "correct_answer": 2
+    },
+    {
+      "question": "Who is the creator of Python?",
+      "options": ["Guido van Rossum", "Mark Zuckerberg", "Elon Musk", "Bill Gates"],
+      "correct_answer": 1
+    },
+    {
+      "question": "Which of the following statements is true about Python?",
+      "options": ["It is a compiled language", "It is a strongly typed language", "It is a dynamically typed language", "It is only used for web development"],
+      "correct_answer": 3
+    },
+    {
+      "question": "What is the syntax for creating a variable in Python?",
+      "options": ["$var = 5", "var = 5", "set var 5", "var == 5"],
+      "correct_answer": 2
+    },
+    {
+      "question": "What is the result of 2 + 3 in Python?",
+      "options": ["4", "5", "6", "7"],
+      "correct_answer": 2
+    },
+    {
+      "question": "Which of the following data types is mutable in Python?",
+      "options": ["int", "float", "str", "list"],
+      "correct_answer": 4
+    },
+    {
+      "question": "What is the purpose of the 'if' statement in Python?",
+      "options": ["To define a function", "To repeat a block of code", "To check a condition and execute code accordingly", "To create a class"],
+      "correct_answer": 3
+    },
+    {
+      "question": "Which operator is used for exponentiation in Python?",
+      "options": ["^", "**", "*", "//"],
+      "correct_answer": 2
+    },
+    {
+      "question": "What is the Python keyword used to define a function?",
+      "options": ["def", "function", "define", "func"],
+      "correct_answer": 1
+    },
+    {
+      "question": "What is the output of the code 'print('Hello, World!')'?",
+      "options": ["Hello", "World", "Hello, World!", "None"],
+      "correct_answer": 3
+    },
+    {
+      "question": "Which of the following is not a Python built-in data type?",
+      "options": ["int", "dict", "array", "list"],
+      "correct_answer": 3
+    },
+    {
+      "question": "What is a 'list' in Python?",
+      "options": ["A collection of ordered elements", "A type of loop", "A data type used for text", "A function"],
+      "correct_answer": 1
+    },
+    {
+      "question": "Which Python module is used for working with regular expressions?",
+      "options": ["regex", "re", "regexp", "regexpy"],
+      "correct_answer": 2
+    },
+    {
+      "question": "What is the purpose of the 'for' loop in Python?",
+      "options": ["To define a function", "To check a condition", "To repeat a block of code a specific number of times", "To execute code only if a condition is met"],
+      "correct_answer": 3
+    },
+    {
+      "question": "What is a 'tuple' in Python?",
+      "options": ["A collection of unordered elements", "A data type used for mathematical operations", "A type of loop", "A keyword"],
+      "correct_answer": 1
+    },
+    {
+      "question": "Which of the following is used to comment out a single line in Python?",
+      "options": ["/* ... */", "// ...", "# ...", "-- ..."],
+      "correct_answer": 3
+    },
+    {
+      "question": "What does the 'len()' function in Python return?",
+      "options": ["The length of a string", "The logarithm of a number", "The largest element in a list", "The result of a mathematical expression"],
+      "correct_answer": 1
+    },
+    {
+      "question": "What is the purpose of the 'while' loop in Python?",
+      "options": ["To define a function", "To check a condition", "To repeat a block of code until a condition is met", "To execute code only if a condition is met"],
+      "correct_answer": 3
+    },
+    {
+      "question": "Which of the following is a valid Python identifier?",
+      "options": ["123Python", "my-variable", "if", "my_var"],
+      "correct_answer": 4
+    }
+  ]
+  
